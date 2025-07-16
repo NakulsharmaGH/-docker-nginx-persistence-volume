@@ -8,7 +8,7 @@ Run an Nginx container that serves content from a volume so that data persists e
 ```
 // persistent volume with nginx 
 
-git clone https://github.com/atulkamble/docker-nginx-persistence-volume.git
+git clone https://github.com/NakulsharmaGH/docker-nginx-persistence-volume.git
 
 cd docker-nginx-persistence-volume
 
